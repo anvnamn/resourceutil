@@ -1,0 +1,1 @@
+Package resourceutil provides easy access to system resources.
